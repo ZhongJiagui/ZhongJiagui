@@ -4,7 +4,7 @@ navbar_name: "Jiagui Zhong"
 
 positions:
 - logo: /assets/images/badges/BIT.svg  # Logo is optional
-  name: B.S., Beijing Institute of Technology
+  name: B.S. Beijing Institute of Technology
 #- name: Position 2 without logo
 
 
@@ -19,6 +19,8 @@ github: "ZhongJiagui"
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
+
+short_bio_text_justify: false
 short_bio: >-
 <p style="text-align: justify;"> 
 I am a fourth-year undergraduate student in the Automation (English-taught) program at the Beijing Institute of Technology. My research interests span embodied AI, robotics, unmanned systems, control, and navigation. Currently, I am working on my undergraduate thesis under the supervision of Prof. Xinbin from the School of Automation. 
@@ -26,10 +28,6 @@ I am a fourth-year undergraduate student in the Automation (English-taught) prog
 <p style="text-align: justify;"> 
 I am also fortunate to have been advised by Prof. Meng Fei from the School of Mechatronics and Prof. Yue Yufeng from the School of Automation at BIT, whose guidance has been invaluable to my academic development. 
 </p>
-  # <p style="text-align: justify;">
-  #   You can find my CV here:
-  # </p>
-
   
 
 portrait_url: /assets/images/photos/me.jpg
