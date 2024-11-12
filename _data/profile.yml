@@ -23,10 +23,10 @@ github: "ZhongJiagui"
 short_bio_text_justify: false
 short_bio: >-
   <p style="text-align: justify;">
-    I am a fourth-year undergraduate student in the Automation (English-taught) program at the Beijing Institute of Technology. My research interests span embodied AI, robotics, unmanned systems, control, and navigation. Currently, I am working on my undergraduate thesis under the supervision of Prof. Xinbin from the School of Automation. 
+    I am a fourth-year undergraduate student in the Automation (English-taught) program at the Beijing Institute of Technology. My research interests span embodied AI, robotics, unmanned systems, control, and navigation. Currently, I am working on my undergraduate thesis under the supervision of <a href="https://ac.bit.edu.cn/szdw/dsmd/bssds/38730081eff74a1f990bfb1d175047d0.htm" target="_blank">Prof. Xinbin</a> from the School of Automation. 
   </p>
   <p style="text-align: justify;">
-    I am also fortunate to have been advised by Prof. Meng Fei from the School of Mechatronics and Prof. Yue Yufeng from the School of Automation at BIT, whose guidance has been invaluable to my academic development. 
+    I am also fortunate to have been advised by <a href="https://smen.bit.edu.cn/szdw/szml/znjqryjs/qb08/e2f2f70f1d194438925da530874797fb.htm" target="_blank">Prof. Meng Fei</a> from the School of Mechatronics and <a href="https://yfyue-bit.github.io/" target="_blank">Prof. Yue Yufeng</a> from the School of Automation at BIT, whose guidance has been invaluable to my academic development. 
   </p>
 
 portrait_url: /assets/images/photos/me.jpg
