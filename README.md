@@ -5,7 +5,7 @@ I have also been fortunate to receive guidance from **Prof. Meng Fei** (School o
 
 📫 **Contact**  
 📧 Jiagui_Zhong(at)Outlook.com  
-🔗 [Profile]([https://github.com/YourGitHubUsername](https://zhongjiagui.github.io/ZhongJiagui/))
+🔗 [Profile](https://zhongjiagui.github.io/ZhongJiagui/))
 
 
 ## 🎓 Education
