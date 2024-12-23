@@ -1,54 +1,69 @@
-# academic-homepage
+# 👋 Jiagui Zhong
 
-![Preview](assets/images/etc/preview.png)
+![Logo](https://via.placeholder.com/150)  
+**B.S. in Automation**  
+**Beijing Institute of Technology**
 
-[![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
-[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluost26%2Facademic-homepage&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
-[![GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/fork)
+---
 
-A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
+I am a fourth-year undergraduate student in the Automation (English-taught) program at the Beijing Institute of Technology. My research interests include **embodied AI**, **robotics**, **unmanned systems**, **control**, and **navigation**. Currently, I am working on my undergraduate thesis under the guidance of **Prof. Xinbin** from the School of Automation.
 
-## User Community
+I have also been fortunate to receive guidance from **Prof. Meng Fei** (School of Mechatronics) and **Prof. Yue Yufeng** (School of Automation) at BIT, whose support has significantly shaped my academic growth.
 
-[:star:](https://luost.me/)
-[:star:](https://cch1999.github.io/)
-[:star:](https://kyrrego.github.io/)
-[:star:](https://ced3-han.github.io/)
-[:star:](https://lihengchen.com/)
-[:star:](https://hpwang-whu.github.io/)
-[:star:](https://zhang-yingyi.github.io/)
-[:star:](https://wby24.github.io/)
-[:star:](https://pengfeixu.com/)
-[:star:](https://boqiuphd.github.io/)
+📫 **Contact**  
+📧 Jiagui_Zhong(at)Outlook.com  
+🔗 [GitHub Profile](https://github.com/YourGitHubUsername)
 
-:hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
+---
 
+## 🎓 Education
+- **Beijing Institute of Technology**  
+  B.S. in Automation  
+  *Sep. 2021 - Present*
 
-## Getting Started
+---
 
-1. First, fork this repository or click the "Use this template" button to create a new repository. The name of the repository should be `<your-github-username>.github.io` (click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) to learn more about naming a GitHub Pages repository).
-   - If you plan to customize the functionality or style of the template, and do not want to get updates from this repository, choose "Use this template".
-   - If you plan to only edit the content (biography, publications, news, etc.), and would like to get updates from this repository, choose "Fork".
-   - If you want to contribute to this project, fork the repository and submit a pull request.
+## 💼 Experience
+- **Lenovo Global Innovation Center**  
+  *Project Development Intern*  
+  *Jun. 2023 - Present*
+  
+- **Jingliao Primary School**  
+  *Volunteer Teacher*  
+  *Sep. 2023 - Feb. 2024*
 
-### Deploying to GitHub Pages
+---
 
-2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+## 📰 News
+### 2024
+- **Nov. 12**: Thrilled to work on my undergraduate thesis under **Prof. Xinbin** at BIT.
+  
+### 2023
+- **Jun. 22**: Started my internship at Lenovo's Global Innovation Center, Desktop Computer R&D Division.
+- **May 01**: Joined the ININ Lab under the supervision of **Prof. Yue Yufeng**.
+- **Oct. 11, 2021**: Joined the Intelligent Unmanned Systems Laboratory under the supervision of **Prof. Meng Fei**.
 
-3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
+---
 
-### Running Locally
+## 📚 Selected Publications
+### **OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**  
+**Yujie Tang, Meiling Wang, Yinan Deng***, **Zibo Zheng***, **Jiagui Zhong***, **Yufeng Yue#**  
+*(\* equal contribution, \# corresponding author)*  
 
-2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
+📄 [Paper](https://arxiv.org/abs/2024) | 🔗 Code (Coming Soon) | 🌐 Project  
 
-3. Clone your forked repository to your local machine.
+> In this paper, we propose an open-vocabulary Carrier-Relationship Scene Graph (CRSG) and an instance navigation method to improve object navigation in dynamic environments. Our approach enables robots to update scene changes and locate moved targets efficiently. The proposed methodology has been validated both in simulation and on physical robots.
 
-4. Run the following command in the root directory of the repository:
+---
 
-   ```bash
-   bundle exec jekyll serve
-   ```
+### **A Lightweight Manipulator Design for Quadruped Robots and Stable Locomotion Control with the Manipulator**  
+**Zishang Ji, Botao Liu, Yurong Liu, Jiagui Zhong, Maosen Wang, Chunyu Hou, Yiwei Yang, Meng Fei#**  
+*(\# corresponding author)*  
 
-5. Browse to the displayed URL to see the website.
+📄 [Paper](https://example.com)  
+
+> This research introduces a lightweight manipulator specifically designed for quadruped robots. It combines hierarchical optimization-based whole-body control to achieve stable locomotion and manipulation in complex environments. The effectiveness of this design is demonstrated through physical prototype experiments.
+
+---
+
+Feel free to suggest any updates or share feedback!
