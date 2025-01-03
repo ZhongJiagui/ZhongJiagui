@@ -40,10 +40,14 @@ education:
   date: Sep. 2021 - present
 
 experience:
+- name: Autonomous Robotic Technology Seminar 
+  logo: /assets/images/badges/artslogo.jpg
+  position: Member of Student Committee
+  date: Jan. 2025 - Present
 - name: Lenovo Global Innovation Center 
   logo: /assets/images/badges/Lenovo.png
   position: Project Development Intern
-  date: Jun. 2023 - present
+  date: Jun. 2023 - Dec. 2024
 - name: Jingliao Primary School 
   logo: /assets/images/badges/schoo.png
   position: Volunteer Teacher
